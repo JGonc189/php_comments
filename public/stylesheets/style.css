@@ -1,0 +1,23 @@
+iframe {
+    width: 853px;
+    height: 480px;
+    border: 1px solid #999;
+}
+
+textarea {
+    width: 850px;
+    height: 80px;
+    background-color: #fff;
+    resize: none;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    background-color: #282828;
+    border: none;
+    color: #fff;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
