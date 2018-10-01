@@ -25,6 +25,7 @@
                 <textarea name='message'></textarea><br />
                 <button name='commentSubmit' type='submit'>Comment</button>
             </form>";
+        getComments($conn);
     ?>
 </body>
 </html>
